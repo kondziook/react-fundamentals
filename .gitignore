@@ -205,3 +205,4 @@ FakesAssemblies/
 /src/TopJob.Web/wwwroot/js/*.js
 /src/TopJob.Web/wwwroot/css/*.css
 
+dist/
